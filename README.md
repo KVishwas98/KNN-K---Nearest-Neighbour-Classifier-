@@ -1,4 +1,4 @@
-# KNN-K---Nearest-Neighbour-Classifier-
+# KNN K-Nearest-Neighbour-Classifier-
 
 KNN is a simple, supervised machine learning (ML) algorithm that can be used for classification or regression tasks — and is also frequently used in missing value imputation.
 
